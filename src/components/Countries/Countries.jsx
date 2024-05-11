@@ -31,7 +31,7 @@ const Countries = () => {
   //   const handleRemoveContries = () => {};
   return (
     <div className="countries">
-      <h1>Country Details</h1>
+      <h1>React World Tour!!!</h1>
       <h3>Visited Countries: {visitedCountries.length}</h3>
       <ol>
         {visitedCountries.map((country) => (
